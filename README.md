@@ -12,7 +12,7 @@ Written by George Gichuru.
 - HTML
 - Javascript
 
-Live Link: >
+Live Link: > https://george-gichuru.github.io/palindrome_checker/
 
 ## Contact Information
 
